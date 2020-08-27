@@ -1,0 +1,12 @@
+com\gridgain\eav\model\EntityAttributeKey.class
+com\gridgain\eav\model\Attribute.class
+com\gridgain\eav\model\Value.class
+com\gridgain\eav\config\ClientConfigurationFactory.class
+com\gridgain\eav\startup\ClientNodeSpringStartup.class
+com\gridgain\eav\startup\ServerNodeSpringStartup.class
+com\gridgain\eav\config\ServerConfigurationFactory.class
+com\gridgain\eav\startup\ServerNodeCodeStartup.class
+com\gridgain\eav\model\EntityAttribute.class
+com\gridgain\eav\model\Entity.class
+com\gridgain\eav\startup\ClientNodeCodeStartup.class
+com\gridgain\eav\model\ValueKey.class
